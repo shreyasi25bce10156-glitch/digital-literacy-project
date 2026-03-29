@@ -63,7 +63,7 @@ Screenshot:
 
 **Social Media Checklist**:5 Do's and Don'ts
 
-**Folder**:task-4-email-etiquette/
+**Folder**:task-4-email-etiquette
 
 
 ---
