@@ -36,3 +36,24 @@ In this task, I designed a Infographic on Digital Literacy Awareness. It present
 
 
 
+
+
+
+---
+
+## 📍 Task 3: Coding & Collaboration Platforms
+**Coding practice**: Codechef "python"problem solved.
+
+Screenshot:
+<img width="1365" height="691" alt="code chef" src="https://github.com/user-attachments/assets/ce435623-4f64-46ec-9a59-43746a6b1b33" />
+
+**Google Form**: Digital Literacy Awareness Quiz(5 questions)
+
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeL1wmmVvKO5j6_-cGfe7Hzc0XwDlvo10oH1facVPW5v98gVQ/viewform?usp=publish-editor
+
+**📷Screenshot**:<img width="1366" height="640" alt="form response" src="https://github.com/user-attachments/assets/9bcd8130-2712-4423-9e93-3174d7f903f3" />
+
+
+
+
+
