@@ -54,6 +54,33 @@ Screenshot:
 **📷Screenshot**:<img width="1366" height="640" alt="form response" src="https://github.com/user-attachments/assets/9bcd8130-2712-4423-9e93-3174d7f903f3" />
 
 
+---
+
+## 📍 Task 4: Professional Email & Social Media Etiqutte
+**Emails Drafted**:
+1)Request for assignment extension
+2)Internship application email
+
+**Social Media Checklist**:5 Do's and Don'ts
+
+**Folder**:task-4-email-etiquette/
+
+
+---
+
+## 📍Task 5: Cybercrime Awareness
+**Case Study**:UPI Fraud
+
+**Folder**:task-5-cybercrime/casestudy.md
+
+**Prevention Checklist**:8 actionable tips for college students
+
+**Folder**:task-5-cybercrime/prevention-checklist.md
+
+
+---
+
+
 
 
 
